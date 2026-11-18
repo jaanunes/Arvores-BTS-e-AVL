@@ -11,3 +11,6 @@ add_executable(arvores
         src/BST.cpp
         src/AVL.cpp
 )
+add_executable(exercicio1 exercicios/exercicio1.cpp)
+add_executable(exercicio2 exercicios/exercicio2.cpp)
+add_executable(exercicio3 exercicios/exercicio3.cpp)
